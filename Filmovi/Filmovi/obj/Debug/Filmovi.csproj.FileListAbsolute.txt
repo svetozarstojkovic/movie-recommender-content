@@ -1,0 +1,27 @@
+c:\users\svetozar\documents\visual studio 2015\Projects\Filmovi\Filmovi\bin\Debug\Filmovi.exe.config
+c:\users\svetozar\documents\visual studio 2015\Projects\Filmovi\Filmovi\bin\Debug\Filmovi.exe
+c:\users\svetozar\documents\visual studio 2015\Projects\Filmovi\Filmovi\bin\Debug\Filmovi.pdb
+c:\users\svetozar\documents\visual studio 2015\Projects\Filmovi\Filmovi\obj\Debug\Filmovi.csprojResolveAssemblyReference.cache
+c:\users\svetozar\documents\visual studio 2015\Projects\Filmovi\Filmovi\obj\Debug\Filmovi.Form1.resources
+c:\users\svetozar\documents\visual studio 2015\Projects\Filmovi\Filmovi\obj\Debug\Filmovi.Properties.Resources.resources
+c:\users\svetozar\documents\visual studio 2015\Projects\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.GenerateResource.Cache
+c:\users\svetozar\documents\visual studio 2015\Projects\Filmovi\Filmovi\obj\Debug\Filmovi.exe
+c:\users\svetozar\documents\visual studio 2015\Projects\Filmovi\Filmovi\obj\Debug\Filmovi.pdb
+E:\PreporucivanjeFilmova\Filmovi\Filmovi\bin\Debug\Filmovi.exe.config
+E:\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.exe
+E:\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.pdb
+E:\PreporucivanjeFilmova\Filmovi\Filmovi\bin\Debug\Filmovi.exe
+E:\PreporucivanjeFilmova\Filmovi\Filmovi\bin\Debug\Filmovi.pdb
+E:\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.csprojResolveAssemblyReference.cache
+E:\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.Form1.resources
+E:\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.Properties.Resources.resources
+E:\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.GenerateResource.Cache
+C:\Users\Svetozar Stojkovic\Desktop\PreporucivanjeFilmova\Filmovi\Filmovi\bin\Debug\Filmovi.exe.config
+C:\Users\Svetozar Stojkovic\Desktop\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.exe
+C:\Users\Svetozar Stojkovic\Desktop\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.pdb
+C:\Users\Svetozar Stojkovic\Desktop\PreporucivanjeFilmova\Filmovi\Filmovi\bin\Debug\Filmovi.exe
+C:\Users\Svetozar Stojkovic\Desktop\PreporucivanjeFilmova\Filmovi\Filmovi\bin\Debug\Filmovi.pdb
+C:\Users\Svetozar Stojkovic\Desktop\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.csprojResolveAssemblyReference.cache
+C:\Users\Svetozar Stojkovic\Desktop\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.Form1.resources
+C:\Users\Svetozar Stojkovic\Desktop\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.Properties.Resources.resources
+C:\Users\Svetozar Stojkovic\Desktop\PreporucivanjeFilmova\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.GenerateResource.Cache
